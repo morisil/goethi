@@ -6,4 +6,4 @@
 
 ## User behavior model
 
-![GoEthi behavior domain model](http://yuml.me/diagram/scruffy;dir:BT/class/[Behavior]*-[User],[ProductRelatedBehavior]-^[Behavior],[ProductIdentificationBehavior]-^[ProductRelatedBehavior],[ProductDenialBehavior]-^[ProductRelatedBehavior],[AddProductIntentBehaviour]-^[ProductRelatedBehavior],[EditProductIntentBehaviour]-^[ProductRelatedBehavior] "GoEthi behavior domain model")
+![GoEthi behavior domain model](http://yuml.me/diagram/scruffy;dir:BT/class/[Behavior]*-[User],[ProductRelatedBehavior]-^[Behavior],[ProductIdentificationBehavior]-^[ProductRelatedBehavior],[ProductDenialBehavior]-^[ProductRelatedBehavior],[AddProductIntentBehavior]-^[ProductRelatedBehavior],[EditProductIntentBehavior]-^[ProductRelatedBehavior],[OwnerRelatedBehavior]-^[Behavior],[EditOwnerBehavior]-^[OwnerRelatedBehavior],[EditOwnerBehavior]-^[OwnerRelatedBehavior],[AddProductOwnerBehavior]-^[OwnerRelatedBehavior] "GoEthi behavior domain model")
