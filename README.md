@@ -1,4 +1,4 @@
-# goethi
+# GoEthi
 
 Platform supporting ethical consumerism
 
