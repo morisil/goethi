@@ -2,5 +2,5 @@
 
 ![GoEthi domain model](http://yuml.me/0c384caa)
 
-Source: (DomainModel.yuml)
+Source: [DomainModel.yuml](DomainModel.yuml)
 
