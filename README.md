@@ -1,6 +1,9 @@
 # GoEthi
-
 Source code of GoEthi - platform supporting ethical consumerism
 
-If you want to contribute, then take a look at [project documentation](docs).
+## What is GoEthi?
+It can be summarized as "lobbying tool for individuals".
+
+## Do you want to contribute?
+Take a look at [project documentation](detailed docs).
 
